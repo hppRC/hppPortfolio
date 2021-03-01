@@ -54,7 +54,7 @@
     "react-spring": "^8.0.27",
     "react-three-fiber": "3.0.17",
     "serialize-javascript": "^3.0.0",
-    "three": "^0.116.0",
+    "three": "^0.125.0",
     "unstated-next": "^1.1.0",
     "use-is-in-viewport": "^1.0.7",
     "webpack": "^4.41.2"
